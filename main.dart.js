@@ -66258,7 +66258,7 @@ s=e!=null?3:4
 break
 case 3:o.aq(new A.a9h(o,e))
 q=6
-n=A.atA("POST",A.ju("http://localhost:5000/apply_filter"))
+n=A.atA("POST",A.ju("https://proyecto-q6cb.onrender.com/apply_filter"))
 j=n.x
 i=o.f
 j.m(0,"filter_type",i)
